@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-TOKEN = "887160710:AAFvCqMH_BTyRUauVF-KOPtIuhIigerycqw"
+TOKEN = "token here"
 
 lang = [u"Русский", "English"]
 
