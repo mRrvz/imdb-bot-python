@@ -1,4 +1,4 @@
-# IMDBbot-python
+# imdb-bot-python
 
 🎥  Telegram Bot to find the __Number__ __of__ __Bacon__
 
