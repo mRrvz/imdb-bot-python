@@ -5,3 +5,5 @@
 🤔 https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon
 
 📺 Telegram: __@BaconIMDbBot__
+
+🐳 Dockerized: https://github.com/hackfeed/imdb-bot-dockerized
